@@ -1,0 +1,7 @@
+name = "ArgExample"
+uuid = "35c4338a-c9e9-4d32-9168-6734e1af2f74"
+authors = ["Matt <mattother@mailbolt.com"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
